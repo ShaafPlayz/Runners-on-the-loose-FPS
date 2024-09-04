@@ -1,6 +1,6 @@
 # Run From Uoft (Ursina Engine) [V 1.0]
 
-An FPS game where you run from your enemy(Uoft) and destory them
+A FPS game where you run from your enemy(Uoft) and destory them
 
 [ps: this is a joke XD]
 
