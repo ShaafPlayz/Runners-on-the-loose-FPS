@@ -1,4 +1,4 @@
-# Run From Uoft (Ursina Engine) [V 1.0]
+# Runners on the Loose (Ursina Engine) [V 1.0]
 
 A FPS game where you run from your enemy(Uoft) and destory them
 
