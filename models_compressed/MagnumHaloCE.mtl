@@ -1,0 +1,57 @@
+# Blender 4.2.0 MTL File: 'MagnumHaloCE.blend'
+# www.blender.org
+
+newmtl Material.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Ke C:/Base_1001_Emissive.tga
+map_Bump -bm 0.800000 C:/Base_1001_Normal.tga
+
+newmtl Material.002
+Ka 1.000000 1.000000 1.000000
+Ks 0.190909 0.190909 0.190909
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Corredera_Material_BaseColor.png
+map_Ns C:/Corredera_Material_Roughness.png
+map_refl C:/Corredera_Material_Metallic.png
+map_Ke C:/Corredera_Material_Emissive.png
+map_Bump -bm 1.000000 C:/Corredera_Material_Normal.png
+
+newmtl Material.003
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.004509 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 33.965000 0.000000 0.043439
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Material.004
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.006287 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 5.514612 1.398222 0.211202
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Material.006
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.818182 0.818182 0.818182
+Ni 1.450000
+d 1.000000
+illum 2
+map_Ns C:/Cartucho_Material_Roughness.png
+map_refl C:/Cartucho_Material_Metallic.png
+map_Ke C:/Cartucho_Material_Emissive.png
+map_Bump -bm 1.000000 C:/Cartucho_Material_Normal.png
